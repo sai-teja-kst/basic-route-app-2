@@ -1,0 +1,10 @@
+/* Write your CSS code here */
+.bg-list {
+  list-style-type: none;
+  font-family: 'roboto';
+  color: #555555;
+}
+
+h1 {
+  color: #12022f;
+}

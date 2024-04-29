@@ -1,0 +1,14 @@
+/* Write your CSS code here */
+
+.logo {
+  height: 10vh;
+  width: 5vw;
+}
+
+.bg-user-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
